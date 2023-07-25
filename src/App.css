@@ -1,0 +1,33 @@
+
+
+p {
+  font-family: "Poppins", serif;
+}
+
+#root {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: lightslategray;
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.App {
+  margin: 0;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  box-shadow: 0 0 15px white;
+  border-radius: 15px;
+  padding: 20px;
+  background-color: lightslategray;
+
+}
